@@ -2,70 +2,70 @@
     "stores": [
         {
             "id": 1,
-            "store": "Weber, Casper and Farrell",
+            "store": "Dental Universe Indoesia",
             "location_latitude": 37.1306168,
             "location_longitude": -7.650062,
             "user": "Gerty Whightman"
         },
         {
             "id": 2,
-            "store": "Sanford Group",
+            "store": "Family Dental Care",
             "location_latitude": 15.8800584,
             "location_longitude": 108.3380469,
             "user": "Jerome Benettelli"
         },
         {
             "id": 3,
-            "store": "Stark-Kessler",
+            "store": "Jakara Smile",
             "location_latitude": 12.14428,
             "location_longitude": 125.450296,
             "user": "Philis Woodyatt"
         },
         {
             "id": 4,
-            "store": "Ebert, Herzog and Kerluke",
+            "store": "Puskesmas Tanah Abang",
             "location_latitude": 42.76667,
             "location_longitude": 23.56667,
             "user": "Sarita Audley"
         },
         {
             "id": 5,
-            "store": "McLaughlin-Heidenreich",
+            "store": "Bank BRI",
             "location_latitude": 22.821335,
             "location_longitude": 113.515205,
             "user": "Livia Woolhouse"
         },
         {
             "id": 6,
-            "store": "Fahey, Goodwin and Adams",
+            "store": "Entercomputer inc",
             "location_latitude": 49.781138,
             "location_longitude": 14.1671734,
             "user": "Harmonia Steinhammer"
         },
         {
             "id": 7,
-            "store": "Christiansen, Balistreri and Schmidt",
+            "store": "Steam Motor UK",
             "location_latitude": -6.9706827,
             "location_longitude": 112.593047,
             "user": "Elbert Ivoshin"
         },
         {
             "id": 8,
-            "store": "Blanda LLC",
+            "store": "Ayam Geprek Bensu",
             "location_latitude": 49.2575136,
             "location_longitude": 106.4385875,
             "user": "Jacquie Roxburch"
         },
         {
             "id": 9,
-            "store": "Heller and Sons",
+            "store": "Toko Barokah",
             "location_latitude": 14.5624842,
             "location_longitude": 121.0482871,
             "user": "Eran Klemmt"
         },
         {
             "id": 10,
-            "store": "Ziemann, Effertz and Rogahn",
+            "store": "Raja Parfum",
             "location_latitude": 61.6614104,
             "location_longitude": 40.2019954,
             "user": "Randie Worvell"
@@ -100,7 +100,7 @@
         },
         {
             "id": 15,
-            "store": "Kovacek, Stiedemann and Boehm",
+            "store": "Grapari Telkomsel",
             "location_latitude": 49.3203637,
             "location_longitude": 15.3266695,
             "user": "Hilario Saunt"
@@ -121,14 +121,14 @@
         },
         {
             "id": 18,
-            "store": "Olson, Ullrich and Hartmann",
+            "store": "Toxic Barbershop",
             "location_latitude": 35.177451,
             "location_longitude": 109.590671,
             "user": "Chrissy Clayill"
         },
         {
             "id": 19,
-            "store": "Stark, Kilback and McLaughlin",
+            "store": "Sayuran inc",
             "location_latitude": 40.9970971,
             "location_longitude": -7.8262205,
             "user": "Alano Gostall"
