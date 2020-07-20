@@ -1,0 +1,144 @@
+{
+    "stores": [
+        {
+            "id": 1,
+            "store": "Weber, Casper and Farrell",
+            "location_latitude": 37.1306168,
+            "location_longitude": -7.650062,
+            "user": "Gerty Whightman"
+        },
+        {
+            "id": 2,
+            "store": "Sanford Group",
+            "location_latitude": 15.8800584,
+            "location_longitude": 108.3380469,
+            "user": "Jerome Benettelli"
+        },
+        {
+            "id": 3,
+            "store": "Stark-Kessler",
+            "location_latitude": 12.14428,
+            "location_longitude": 125.450296,
+            "user": "Philis Woodyatt"
+        },
+        {
+            "id": 4,
+            "store": "Ebert, Herzog and Kerluke",
+            "location_latitude": 42.76667,
+            "location_longitude": 23.56667,
+            "user": "Sarita Audley"
+        },
+        {
+            "id": 5,
+            "store": "McLaughlin-Heidenreich",
+            "location_latitude": 22.821335,
+            "location_longitude": 113.515205,
+            "user": "Livia Woolhouse"
+        },
+        {
+            "id": 6,
+            "store": "Fahey, Goodwin and Adams",
+            "location_latitude": 49.781138,
+            "location_longitude": 14.1671734,
+            "user": "Harmonia Steinhammer"
+        },
+        {
+            "id": 7,
+            "store": "Christiansen, Balistreri and Schmidt",
+            "location_latitude": -6.9706827,
+            "location_longitude": 112.593047,
+            "user": "Elbert Ivoshin"
+        },
+        {
+            "id": 8,
+            "store": "Blanda LLC",
+            "location_latitude": 49.2575136,
+            "location_longitude": 106.4385875,
+            "user": "Jacquie Roxburch"
+        },
+        {
+            "id": 9,
+            "store": "Heller and Sons",
+            "location_latitude": 14.5624842,
+            "location_longitude": 121.0482871,
+            "user": "Eran Klemmt"
+        },
+        {
+            "id": 10,
+            "store": "Ziemann, Effertz and Rogahn",
+            "location_latitude": 61.6614104,
+            "location_longitude": 40.2019954,
+            "user": "Randie Worvell"
+        },
+        {
+            "id": 11,
+            "store": "Botsford Inc",
+            "location_latitude": 24.1048998,
+            "location_longitude": 52.7241914,
+            "user": "Hortense Lackey"
+        },
+        {
+            "id": 12,
+            "store": "Schimmel-Durgan",
+            "location_latitude": 48.9000154,
+            "location_longitude": 17.6961852,
+            "user": "Nanni Vernham"
+        },
+        {
+            "id": 13,
+            "store": "Kassulke Inc",
+            "location_latitude": 43.4598651,
+            "location_longitude": -3.8057968,
+            "user": "Marquita Balsdon"
+        },
+        {
+            "id": 14,
+            "store": "Von-Simonis",
+            "location_latitude": 51.2150482,
+            "location_longitude": 19.5968399,
+            "user": "Samuele Shelborne"
+        },
+        {
+            "id": 15,
+            "store": "Kovacek, Stiedemann and Boehm",
+            "location_latitude": 49.3203637,
+            "location_longitude": 15.3266695,
+            "user": "Hilario Saunt"
+        },
+        {
+            "id": 16,
+            "store": "MacGyver LLC",
+            "location_latitude": 12.6583137,
+            "location_longitude": -87.1672193,
+            "user": "Willow Paulot"
+        },
+        {
+            "id": 17,
+            "store": "Block and Sons",
+            "location_latitude": 24.546876,
+            "location_longitude": 107.04219,
+            "user": "Cathee Clemot"
+        },
+        {
+            "id": 18,
+            "store": "Olson, Ullrich and Hartmann",
+            "location_latitude": 35.177451,
+            "location_longitude": 109.590671,
+            "user": "Chrissy Clayill"
+        },
+        {
+            "id": 19,
+            "store": "Stark, Kilback and McLaughlin",
+            "location_latitude": 40.9970971,
+            "location_longitude": -7.8262205,
+            "user": "Alano Gostall"
+        },
+        {
+            "id": 20,
+            "store": "Denesik Inc",
+            "location_latitude": 29.985295,
+            "location_longitude": 122.207215,
+            "user": "Shel De Cleen"
+        }
+    ]
+}
